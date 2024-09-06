@@ -20,7 +20,7 @@ function pesquisar() {
     // Itera sobre cada dado da lista de dados
     for (let dado of dados) {
         titulo = dado.titulo.toLowerCase()
-        descricao = dado.descricao.toLowerCase
+        descricao = dado.descricao.toLowerCase()
         // se titulo includes campoPesquisa
         if (titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa)) {
         // Cria um novo elemento HTML para cada resultado
