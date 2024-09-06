@@ -1,4 +1,4 @@
-# Catálogo de Objetos Celestes
+# Catálogo de Objetos Celestes - Imersão DEV com Google Gemini
 
 [![GitHub stars](https://img.shields.io/github/stars/feericasf/Imers-o-ALURA?style=social)](https://github.com/feericasf/Imers-o-ALURA)
 [![GitHub forks](https://img.shields.io/github/forks/feericasf/Imers-o-ALURA?style=social)](https://github.com/feericasf/Imers-o-ALURA)
